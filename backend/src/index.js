@@ -45,3 +45,5 @@ server.listen(PORT, () => {
     console.log(`live on port ${PORT}`)
     connectDB()
 })
+
+//changes env to production
